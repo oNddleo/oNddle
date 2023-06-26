@@ -51,13 +51,13 @@
 
 ### SRE & DevOps:
 &emsp;
+![Kong](https://img.shields.io/badge/-Kong-000?&logo=Kong)
+![Traefik](https://img.shields.io/badge/-Traefik-000?&logo=traefikproxy)
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
 ![Prometheus](https://img.shields.io/badge/-Prometheus-000?&logo=Prometheus)
-![Kong](https://img.shields.io/badge/-Kong-000?&logo=Kong)
 ![Grafana](https://img.shields.io/badge/-Grafana-000?&logo=Grafana)
 ![Nginx](https://img.shields.io/badge/-Nginx-000?&logo=Nginx)
-![Traefik](https://img.shields.io/badge/-Traefik-000?&logo=traefikproxy)
 
 ----
 ### 🐱Connect with me on
