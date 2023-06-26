@@ -21,6 +21,7 @@
 ![NodeJS](https://img.shields.io/badge/-Nodejs-black?style=flat-square?&logo=Node.js)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)
+![Python3](https://img.shields.io/badge/-Python3-000?&logo=python)
 ![GO](https://img.shields.io/badge/-GO-000?&logo=Go)
 
 ### Misc tools:
