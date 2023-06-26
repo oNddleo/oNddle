@@ -5,13 +5,14 @@
 - 💻 I'm a software engineering . 
 - 🏡 I work at Hanoi city, VietNam.
 
+## 📈 My GitHub Stats and Activity
 
+### 💻 Profile Stats
 
+<img alt="Berkeli's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=oNddleo&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/><img alt="Berkeli's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oNddleo&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
 
----
-### 🐱My Github stats:
-![LongND's github stats](https://github-readme-stats.vercel.app/api?username=oNddleo&count_private=true&show_icons=true&theme=cobalt)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oNddleo&count_private=true&theme=cobalt&layout=compact)](https://github.com/oNddleo/github-readme-stats)
+### 🔥 Streak Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=oNddleo&theme=tokyonight)](https://git.io/streak-stats)
 
 
 <p align="center">
