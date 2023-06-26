@@ -1,6 +1,6 @@
 <h2 align="center">Reach me on <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjZ4bDB5d3JmanBnOXFrNTZxbjQxbmh0cDB4Ym9saWh4amw4bXE4ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/H7YFD7A5aOisYZPQ1f/giphy.gif" width="50"></h2>
 
-### Hi, I'm Long. 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hi,+I'm+Long!👋;I'm+a+Backend+Developer...;And+I'm+a+proud+VietNamese+🇻🇳+🇻🇳+🇻🇳)](https://git.io/typing-svg)
 
 - 💻 I'm a software engineering . 
 - 🏡 I work at Hanoi city, VietNam.
@@ -21,10 +21,11 @@
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
 </p>
 <p align="center">
-<a href="https://github.com/oNddleo">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=oNddleo&count_private=true&show_icons=true&theme=cobalt" alt="LongND's github stats"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oNddleo&count_private=true&theme=cobalt&layout=compact" alt="LongND's github top languages" />
-</a>
-<p align="center">
 
+---
+### 🐱My Github stats:
+![LongND's github stats](https://github-readme-stats.vercel.app/api?username=oNddleo&count_private=true&show_icons=true&theme=cobalt)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oNddleo&count_private=true&theme=cobalt&layout=compact)](https://github.com/oNddleo/github-readme-stats)
+  
+----
 💬 Ask me about: https://www.facebook.com/9u6u07
