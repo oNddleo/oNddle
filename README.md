@@ -8,8 +8,6 @@
 
 
 <p align="center">
-<h2 align="center">Nguyễn Đức Long<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
-<p align="center">
 <img src="https://img.shields.io/badge/-Kubernates-black?style=flat-square&logo=kubernetes"/>
 <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
 <img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
