@@ -28,4 +28,10 @@
 <p align="center">
   
 ----
-💬 Ask me about: https://www.facebook.com/9u6u07
+### 🐱Connect with me on
+<p>
+<br>	
+<a target="_blank" href="[https://www.linkedin.com/in/ahmadshaikhk/](https://www.linkedin.com/in/longnd1/)"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></img></a>
+&emsp;
+<a target="_blank" href="mailto:nguyenduclong12a2nd@gmail.com"
+><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"></img></a>
