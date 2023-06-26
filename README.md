@@ -14,20 +14,49 @@
 ### 🔥 Streak Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=oNddleo&theme=tokyonight)](https://git.io/streak-stats)
 
+## 🛠️ My Skills
+### Programming languages:
 
-<p align="center">
-<img src="https://img.shields.io/badge/-Kubernates-black?style=flat-square&logo=kubernetes"/>
-<img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
-<img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
-<img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python">
-<img src="https://img.shields.io/badge/-Go-black?style=flat-square&logo=go">
-<img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"/>
-<img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
-<img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
-<img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
-</p>
-<p align="center">
-  
+&emsp;
+![Kubernetes](https://img.shields.io/badge/-Kubernates-black?&logo=kubernetes)
+![NodeJS](https://img.shields.io/badge/-Nodejs-black?style=flat-square?&logo=Node.js)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)
+![GO](https://img.shields.io/badge/-GO-000?&logo=Go)
+
+### Misc tools:
+&emsp;
+![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
+![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
+![GitLab](https://img.shields.io/badge/-GitLab-000?&logo=GitLab)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Jest](https://img.shields.io/badge/-Jest-000?&logo=Jest)
+![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual-Studio-Code)
+![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
+
+### Services & Frameworks: 
+&emsp;
+![Auth0](https://img.shields.io/badge/-Auth0-000?&logo=Auth0)
+![Fastify](https://img.shields.io/badge/-Fastify-000?&logo=fastify)
+
+
+### Databases:
+&emsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
+![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
+![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
+
+### SRE & DevOps:
+&emsp;
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
+![Prometheus](https://img.shields.io/badge/-Prometheus-000?&logo=Prometheus)
+![Kong](https://img.shields.io/badge/-Kong-000?&logo=Kong)
+![Grafana](https://img.shields.io/badge/-Grafana-000?&logo=Grafana)
+![Nginx](https://img.shields.io/badge/-Nginx-000?&logo=Nginx)
+![Traefik](https://img.shields.io/badge/-Traefik-000?&logo=traefikproxy)
+
 ----
 ### 🐱Connect with me on
 <p>
