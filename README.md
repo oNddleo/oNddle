@@ -7,6 +7,13 @@
 
 
 
+
+---
+### 🐱My Github stats:
+![LongND's github stats](https://github-readme-stats.vercel.app/api?username=oNddleo&count_private=true&show_icons=true&theme=cobalt)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oNddleo&count_private=true&theme=cobalt&layout=compact)](https://github.com/oNddleo/github-readme-stats)
+
+
 <p align="center">
 <img src="https://img.shields.io/badge/-Kubernates-black?style=flat-square&logo=kubernetes"/>
 <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
@@ -19,11 +26,6 @@
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
 </p>
 <p align="center">
-
----
-### 🐱My Github stats:
-![LongND's github stats](https://github-readme-stats.vercel.app/api?username=oNddleo&count_private=true&show_icons=true&theme=cobalt)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oNddleo&count_private=true&theme=cobalt&layout=compact)](https://github.com/oNddleo/github-readme-stats)
   
 ----
 💬 Ask me about: https://www.facebook.com/9u6u07
