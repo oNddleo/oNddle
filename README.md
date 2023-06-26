@@ -33,11 +33,13 @@
 ![Jest](https://img.shields.io/badge/-Jest-000?&logo=Jest)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual-Studio-Code)
 ![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
+![Swagger](https://img.shields.io/badge/-Swagger-000?&logo=Swagger)
 
 ### Services & Frameworks: 
 &emsp;
 ![Auth0](https://img.shields.io/badge/-Auth0-000?&logo=Auth0)
 ![Fastify](https://img.shields.io/badge/-Fastify-000?&logo=fastify)
+![SailsJS](https://img.shields.io/badge/-SailsJS-000?&logo=sailsjs)
 
 
 ### Databases:
